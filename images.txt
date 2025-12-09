@@ -1,1 +1,1 @@
-apacherocketmq/rocketmq-dashboard:latest
+kube-webhook-certgen:v1.4.1
