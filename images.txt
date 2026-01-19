@@ -1,1 +1,1 @@
-apache/rocketmq:5.0.0
+eclipse-temurin:17.0.17_10-jre
