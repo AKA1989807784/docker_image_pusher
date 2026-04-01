@@ -1,1 +1,1 @@
-mariadb:10.4.27
+cadvisor:latest
