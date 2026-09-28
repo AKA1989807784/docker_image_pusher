@@ -1,1 +1,1 @@
- caddy:2
+node:20-slim
